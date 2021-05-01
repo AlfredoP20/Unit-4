@@ -1,0 +1,13 @@
+Initial configuration
+
+[code] cp [ opción ] … [ -T ] fuente destino [/code] [code] cp [ opción ] … fuente … directorio [/code] [code] cp [ opción ] … -t fuente del directorio … [/code]
+
+WorkFlow Commands
+
+":: Workflow-Command Parameter1 ={data}, parameter2 ={data}::{command value}" 
+
+Push to remote repositori
+
+#git remote add github url
+#git add -A, #git commit
+#git push github new-design
